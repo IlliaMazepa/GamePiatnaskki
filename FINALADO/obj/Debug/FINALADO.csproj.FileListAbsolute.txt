@@ -1,0 +1,14 @@
+E:\VSProjects\FINALADO\FINALADO\bin\Debug\FINALADO.exe.config
+E:\VSProjects\FINALADO\FINALADO\bin\Debug\FINALADO.exe
+E:\VSProjects\FINALADO\FINALADO\bin\Debug\FINALADO.pdb
+E:\VSProjects\FINALADO\FINALADO\obj\Debug\FINALADO.csproj.AssemblyReference.cache
+E:\VSProjects\FINALADO\FINALADO\obj\Debug\FINALADO.csproj.SuggestedBindingRedirects.cache
+E:\VSProjects\FINALADO\FINALADO\obj\Debug\FINALADO.Form1.resources
+E:\VSProjects\FINALADO\FINALADO\obj\Debug\FINALADO.Properties.Resources.resources
+E:\VSProjects\FINALADO\FINALADO\obj\Debug\FINALADO.Registration.resources
+E:\VSProjects\FINALADO\FINALADO\obj\Debug\FINALADO.SignUp.resources
+E:\VSProjects\FINALADO\FINALADO\obj\Debug\FINALADO.csproj.GenerateResource.cache
+E:\VSProjects\FINALADO\FINALADO\obj\Debug\FINALADO.csproj.CoreCompileInputs.cache
+E:\VSProjects\FINALADO\FINALADO\obj\Debug\FINALADO.exe
+E:\VSProjects\FINALADO\FINALADO\obj\Debug\FINALADO.pdb
+E:\VSProjects\FINALADO\FINALADO\obj\Debug\FINALADO.Sertificate.resources
